@@ -110,9 +110,6 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 
    - Compare data for users with higher activity levels to others.
 
-   - Investigate metrics like minutes asleep vs. minutes in bed and screen time.  
-
-
 ---
 
 
