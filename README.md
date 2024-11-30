@@ -223,9 +223,15 @@ Analysis
 The most frequent user walked 20% more steps and burned 10% more calories daily compared to the least frequent user.
 
 
-![bar chart](C:\Users\JoKa981\Desktop\bellabeat-analysis\assets\bellabeat viz 1.png)
+![bar chart](./assets/bellabeat%20viz%201.png)
 
+![bar chart 2](./assets/bellabeat%20viz%202.png)
+s
 ### **Share**
 
 In this analysis, I utilized R programming to create compelling data visualizations that provide insights into the dataset. R's robust suite of libraries, such as **ggplot2** for plotting and **dplyr** for data manipulation, allowed me to effectively clean, analyze, and graphically represent the data. By leveraging R's capabilities, I was able to transform raw data into meaningful visual narratives that highlight patterns, trends, and correlations. These visualizations serve as a powerful tool to communicate findings in a clear and impactful way, making complex data accessible and actionable. Please refer to the **script.R** file for the code used in this process.
 
+### **Conclusion**
+This analysis aimed to compare the activity levels of two users: one who logged their data consistently and another who logged less frequently. The results showed that the user who tracked their performance more regularly walked significantly more steps. This highlights an important insight: consistently logging and tracking health data allows users to organize their goals, monitor progress, and maintain accountability, which leads to improved consistency and long-term success in their health journeys.
+
+To capitalize on this insight, my marketing recommendation for Bellabeat is to create campaigns showcasing women achieving their health goals with the help of Bellabeat’s smart devices. By focusing on how easy and efficient health tracking drives better results, the brand can connect with its audience and inspire them to see Bellabeat as a key tool for their success. This approach not only highlights the product’s value but is also likely to increase sales by resonating with the target audience's aspirations.
